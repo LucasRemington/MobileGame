@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/menu.unity
+    guid: 752880fdc22f9ef4783c3f1311e24562
+  - enabled: 1
+    path: Assets/rotatetest.unity
+    guid: 1657c58abc7802143ae2c32a403af421
